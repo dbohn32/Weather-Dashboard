@@ -5,3 +5,4 @@
 <h1>Link to deployed site</h1>
 https://dbohn32.github.io/Weather-Dashboard/
 <h1>Screenshot</h1>
+ <img src= "./Screenshot (20).png">
